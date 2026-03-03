@@ -13,6 +13,26 @@ Press the button, make a dessert, earn the big bucks.
 You use this app in the course to explore the Android lifecycle and log messages to
 the Android console (Logcat).
 
+Screenshots of the Dessert Clicker App project
+--- 
+#### Using rememberSaveable 
+
+<p align="center">
+<img src="./res/Screenshot_20260304_012758.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/>
+</p>
+
+<p align="center">
+<img src="./res/Screenshot_20260304_012820.png" width="70%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> 
+</p>
+
+<p align="center">
+<img src="./res/Screenshot_20260304_012849.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Result too low"/>
+</p>
+
+<p align="center">
+<img src="./res/Screenshot_20260304_012914.png" width="70%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> 
+</p>
+
 Pre-requisites
 --------------
 
