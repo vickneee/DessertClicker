@@ -16,7 +16,7 @@ Screenshots of the Dessert Clicker App project
 </p>
 
 <p align="center">
-<img src="./res/Screenshot_20260304_012820.png" width="70%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> 
+<img src="./res/Screenshot_20260304_012820.png" width="74%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> 
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Screenshots of the Dessert Clicker App project
 </p>
 
 <p align="center">
-<img src="./res/Screenshot_20260304_012914.png" width="70%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> 
+<img src="./res/Screenshot_20260304_012914.png" width="74%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> 
 </p>
 
 Pre-requisites
