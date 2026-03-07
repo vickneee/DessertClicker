@@ -7,11 +7,6 @@ Dessert Clicker is a game about making desserts.
 
 Press the button, make a dessert, earn the big bucks.
 
-Introduction
-------------
-
-I used this app in the course to explore the Android lifecycle and log messages to the Android console (Logcat).
-
 Screenshots of the Dessert Clicker App project
 --- 
 #### Using rememberSaveable 
